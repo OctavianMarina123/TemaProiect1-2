@@ -1,0 +1,525 @@
+
+21 Mar 2022 15:32:32,663 INFO  repository.RepoArtists 24 size - trying to connect to database ... 
+21 Mar 2022 15:32:32,671 TRACE repository.RepoArtists 25 size - Enter Parameters 0
+21 Mar 2022 15:32:32,671 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+21 Mar 2022 15:32:32,679 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+21 Mar 2022 15:32:32,679 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+21 Mar 2022 15:32:33,184 TRACE repository.RepoArtists 44 size - Exit
+22 Mar 2022 00:14:32,314 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 00:14:32,322 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 00:14:32,325 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 00:14:32,326 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:14:32,327 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:14:32,330 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:14:32,908 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:14:32,926 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 00:43:52,867 TRACE repository.RepoArtists 153 findAll - Enter
+22 Mar 2022 00:43:52,875 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:43:52,875 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:43:52,875 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:43:53,155 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:45:36,008 TRACE repository.RepoArtists 153 findAll - Enter
+22 Mar 2022 00:45:36,016 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:45:36,016 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:45:36,016 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:45:36,304 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:48:29,486 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:48:29,494 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:48:29,494 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:48:29,494 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:48:29,802 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:48:36,712 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:48:36,720 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:48:36,720 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:48:36,720 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:48:37,000 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:49:01,599 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:49:01,607 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:49:01,607 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:49:01,607 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:49:01,895 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:49:31,023 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:49:31,023 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:49:31,031 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:49:31,031 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:49:31,388 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:49:56,952 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:49:56,960 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:49:56,960 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:49:56,960 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:49:57,316 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:50:25,085 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:50:25,093 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:50:25,093 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:50:25,101 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:50:25,547 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:50:45,738 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:50:45,746 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:50:45,746 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:50:45,746 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:50:46,058 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:51:34,892 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:51:34,900 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:51:34,900 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:51:34,900 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:51:35,222 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:51:35,254 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 00:51:35,255 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:51:35,256 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:51:35,257 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:51:35,331 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:51:35,336 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 00:52:46,980 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:52:46,996 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:52:46,996 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:52:46,996 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:52:47,337 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:52:47,371 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 00:52:47,373 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:52:47,374 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:52:47,374 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:52:47,430 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:52:47,438 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 00:52:47,438 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 00:52:47,438 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 00:52:47,438 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 00:52:47,438 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:52:47,438 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:52:47,438 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:52:47,502 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:52:47,502 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 00:55:32,227 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 00:55:32,237 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:55:32,239 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:55:32,240 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:55:32,670 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:55:32,710 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 00:55:32,710 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:55:32,710 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:55:32,710 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:55:32,784 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:55:32,789 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 00:55:32,807 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 00:55:32,808 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 00:55:32,809 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 00:55:32,809 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:55:32,809 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:55:32,810 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:55:32,889 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:55:32,895 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 00:55:37,495 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 00:55:37,503 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 00:55:37,503 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 00:55:37,503 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:55:37,503 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:55:37,503 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:55:37,903 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:55:37,919 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 00:56:25,645 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 00:56:25,645 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 00:56:25,661 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 00:56:25,661 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:56:25,661 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:56:25,661 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:56:25,980 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:56:26,004 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 00:56:26,004 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 00:56:26,004 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 00:56:26,012 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 00:56:26,012 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 00:56:26,068 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 00:56:26,068 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 01:06:16,816 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 01:06:16,816 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 01:06:16,824 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 01:06:16,824 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:16,824 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:16,824 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:17,120 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:06:17,144 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 01:06:17,144 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 01:06:17,144 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:17,144 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:17,152 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:17,216 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:06:17,224 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 01:06:22,968 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 01:06:22,976 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 01:06:22,976 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 01:06:22,976 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:22,984 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:22,984 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:23,288 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:06:23,304 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 01:06:23,312 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 01:06:23,312 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:23,312 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:23,312 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:23,376 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:06:23,376 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 01:06:31,628 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scene', capacity=120}: 
+22 Mar 2022 01:06:31,636 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:31,636 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:31,636 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:32,036 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:06:32,065 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 01:06:32,073 TRACE repository.RepoScene 102 delete - Enter Parameters: 0
+22 Mar 2022 01:06:32,073 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:32,073 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:32,073 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:32,142 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:06:32,142 TRACE repository.RepoScene 121 findById - Enter Parameters: 0
+22 Mar 2022 01:06:32,142 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:06:32,142 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:06:32,142 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:06:32,222 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:07:18,362 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scene', capacity=120}: 
+22 Mar 2022 01:07:18,370 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:07:18,370 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:07:18,370 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:07:18,653 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:07:18,661 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 01:09:16,917 TRACE repository.RepoScene 102 delete - Enter Parameters: 17
+22 Mar 2022 01:09:16,925 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:09:16,925 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:09:16,925 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:09:17,197 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:09:17,213 TRACE repository.RepoScene 121 findById - Enter Parameters: 17
+22 Mar 2022 01:09:17,213 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:09:17,213 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:09:17,213 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:09:17,269 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:09:17,285 TRACE repository.RepoScene 134 findById - Exit
+22 Mar 2022 01:09:17,301 TRACE repository.RepoScene 108 delete - Exit
+22 Mar 2022 01:09:51,960 TRACE repository.RepoScene 102 delete - Enter Parameters: 18
+22 Mar 2022 01:09:51,960 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:09:51,968 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:09:51,968 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:09:52,264 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:09:52,272 TRACE repository.RepoScene 121 findById - Enter Parameters: 18
+22 Mar 2022 01:09:52,272 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:09:52,272 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:09:52,272 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:09:52,336 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:09:52,352 TRACE repository.RepoScene 134 findById - Exit
+22 Mar 2022 01:09:52,360 TRACE repository.RepoScene 108 delete - Exit
+22 Mar 2022 01:10:35,202 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 01:10:35,210 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,210 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,210 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:35,530 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:35,554 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 01:10:35,554 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,562 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,562 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:35,618 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:35,626 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 01:10:35,650 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scene', capacity=120}: 
+22 Mar 2022 01:10:35,650 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,650 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,650 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:35,714 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:35,714 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 01:10:35,722 TRACE repository.RepoScene 102 delete - Enter Parameters: 18
+22 Mar 2022 01:10:35,730 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,730 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,730 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:35,802 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:35,802 TRACE repository.RepoScene 121 findById - Enter Parameters: 18
+22 Mar 2022 01:10:35,802 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,802 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,802 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:35,866 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:35,882 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 01:10:35,882 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 01:10:35,882 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 01:10:35,882 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,882 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,882 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:35,978 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:35,978 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 01:10:35,986 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 01:10:35,986 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:10:35,986 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:10:35,986 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:10:36,036 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:10:36,044 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 01:11:51,587 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 01:11:51,587 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:51,595 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:51,595 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,005 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,066 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 01:11:52,067 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,068 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,070 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,133 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,141 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 01:11:52,165 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scene', capacity=120}: 
+22 Mar 2022 01:11:52,165 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,165 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,165 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,245 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,245 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 01:11:52,253 TRACE repository.RepoScene 102 delete - Enter Parameters: 19
+22 Mar 2022 01:11:52,253 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,253 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,253 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,325 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,325 TRACE repository.RepoScene 121 findById - Enter Parameters: 19
+22 Mar 2022 01:11:52,325 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,325 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,333 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,405 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,413 TRACE repository.RepoScene 134 findById - Exit
+22 Mar 2022 01:11:52,421 TRACE repository.RepoScene 108 delete - Exit
+22 Mar 2022 01:11:52,421 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scenee', capacity=120}: 
+22 Mar 2022 01:11:52,421 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,421 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,421 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,495 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,495 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 01:11:52,495 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 01:11:52,503 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 01:11:52,503 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 01:11:52,503 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,503 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,503 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,559 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,559 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 01:11:52,567 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 01:11:52,567 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 01:11:52,567 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 01:11:52,567 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 01:11:52,631 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 01:11:52,631 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 09:37:02,011 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 09:37:02,019 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 09:37:02,019 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 09:37:02,019 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:37:02,019 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:37:02,019 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:37:02,612 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:37:02,636 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 09:58:53,063 TRACE repository.RepoArtists 153 findAll - Enter
+22 Mar 2022 09:58:53,071 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:53,071 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:53,071 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:53,740 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:53,764 TRACE repository.RepoCustomer 152 findAll - Enter
+22 Mar 2022 09:58:53,764 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:53,764 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:53,764 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:53,820 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:53,820 TRACE repository.RepoScene 152 findAll - Enter
+22 Mar 2022 09:58:53,820 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:53,820 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:53,828 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:53,876 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:53,876 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 09:58:53,876 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:53,876 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:53,884 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:53,932 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:53,932 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 2
+22 Mar 2022 09:58:53,932 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:53,932 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:53,932 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:53,980 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:53,980 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 09:58:53,980 TRACE repository.RepoScene 121 findById - Enter Parameters: 2
+22 Mar 2022 09:58:53,988 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:53,988 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:53,988 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:54,028 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:54,036 TRACE repository.RepoScene 134 findById - Exit
+22 Mar 2022 09:58:57,649 TRACE repository.RepoArtists 153 findAll - Enter
+22 Mar 2022 09:58:57,657 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:57,657 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:57,657 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:58,191 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:58,207 TRACE repository.RepoCustomer 152 findAll - Enter
+22 Mar 2022 09:58:58,207 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:58,207 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:58,215 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:58,255 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:58,263 TRACE repository.RepoScene 152 findAll - Enter
+22 Mar 2022 09:58:58,263 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:58,263 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:58,263 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:58,319 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:58,327 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 09:58:58,327 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:58,327 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:58,327 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:58,375 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:58,383 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 2
+22 Mar 2022 09:58:58,383 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:58,383 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:58,383 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:58,431 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:58,431 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 09:58:58,439 TRACE repository.RepoScene 121 findById - Enter Parameters: 2
+22 Mar 2022 09:58:58,439 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:58:58,439 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:58:58,439 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 09:58:58,487 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 09:58:58,487 TRACE repository.RepoScene 134 findById - Exit
+22 Mar 2022 09:59:59,650 TRACE repository.RepoArtists 153 findAll - Enter
+22 Mar 2022 09:59:59,658 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 09:59:59,658 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 09:59:59,658 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:00:00,194 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:00:00,218 TRACE repository.RepoCustomer 152 findAll - Enter
+22 Mar 2022 10:00:00,218 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:00:00,218 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:00:00,226 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:00:00,274 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:00:00,282 TRACE repository.RepoScene 152 findAll - Enter
+22 Mar 2022 10:00:00,290 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:00:00,290 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:00:00,290 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:00:00,362 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:00:00,370 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 10:00:00,370 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:00:00,370 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:00:00,370 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:00:00,426 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:00:00,434 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 2
+22 Mar 2022 10:00:00,434 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:00:00,434 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:00:00,434 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:00:00,482 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:00:00,482 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 10:00:00,490 TRACE repository.RepoScene 121 findById - Enter Parameters: 2
+22 Mar 2022 10:00:00,490 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:00:00,490 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:00:00,490 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:00:00,531 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:00:00,539 TRACE repository.RepoScene 134 findById - Exit
+22 Mar 2022 10:23:09,802 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 10:23:09,808 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:09,810 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:09,811 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,204 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,234 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 10:23:10,236 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,238 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,239 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,409 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,413 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 10:23:10,439 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scene', capacity=120}: 
+22 Mar 2022 10:23:10,441 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,446 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,446 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,505 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,505 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 10:23:10,515 TRACE repository.RepoScene 102 delete - Enter Parameters: 19
+22 Mar 2022 10:23:10,515 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,516 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,516 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,571 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,572 TRACE repository.RepoScene 121 findById - Enter Parameters: 19
+22 Mar 2022 10:23:10,572 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,573 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,573 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,622 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,637 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scenee', capacity=120}: 
+22 Mar 2022 10:23:10,638 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,638 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,638 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,756 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,757 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 10:23:10,763 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 10:23:10,763 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 10:23:10,764 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 10:23:10,764 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,765 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,766 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,823 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,829 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 10:23:10,830 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 10:23:10,831 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:10,835 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:10,836 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:10,890 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:10,895 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 10:23:38,000 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 10:23:38,015 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:38,019 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:38,030 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:38,782 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:38,845 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 1
+22 Mar 2022 10:23:38,846 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:38,849 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:38,853 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:38,942 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:38,949 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 10:23:38,988 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scene', capacity=120}: 
+22 Mar 2022 10:23:38,990 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:38,990 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:38,992 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:39,119 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:39,120 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 10:23:39,128 TRACE repository.RepoScene 102 delete - Enter Parameters: 19
+22 Mar 2022 10:23:39,129 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:39,129 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:39,130 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:39,236 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:39,236 TRACE repository.RepoScene 121 findById - Enter Parameters: 19
+22 Mar 2022 10:23:39,237 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:39,237 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:39,238 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:39,377 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:39,387 TRACE repository.RepoScene 53 add - Enter Parameters Scene{id=0, name='scenee', capacity=120}: 
+22 Mar 2022 10:23:39,389 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:39,390 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:39,390 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:39,766 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:39,767 TRACE repository.RepoScene 61 add - Exit
+22 Mar 2022 10:23:39,777 TRACE repository.RepoArtists 22 size - Enter
+22 Mar 2022 10:23:39,778 INFO  repository.RepoArtists 25 size - trying to connect to database ... 
+22 Mar 2022 10:23:39,778 TRACE repository.RepoArtists 26 size - Enter Parameters 0
+22 Mar 2022 10:23:39,779 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:39,779 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:39,780 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:40,030 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:40,036 TRACE repository.RepoArtists 45 size - Exit
+22 Mar 2022 10:23:40,036 TRACE repository.RepoCustomer 26 size - Enter
+22 Mar 2022 10:23:40,037 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:40,038 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:40,038 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:40,106 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:40,110 TRACE repository.RepoCustomer 47 size - Exit
+22 Mar 2022 10:23:49,702 TRACE repository.RepoArtists 153 findAll - Enter
+22 Mar 2022 10:23:49,747 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:49,751 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:49,757 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:50,606 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:50,642 TRACE repository.RepoCustomer 152 findAll - Enter
+22 Mar 2022 10:23:50,643 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:50,645 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:50,646 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:50,771 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:50,789 TRACE repository.RepoScene 152 findAll - Enter
+22 Mar 2022 10:23:50,790 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:50,790 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:50,791 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:50,896 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:50,912 TRACE repository.RepoArtists 121 findById - Enter Parameters: 2
+22 Mar 2022 10:23:50,912 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:50,913 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:50,914 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:51,018 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:51,025 TRACE repository.RepoCustomer 120 findById - Enter Parameters: 2
+22 Mar 2022 10:23:51,025 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:51,026 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:51,026 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:51,101 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:51,106 TRACE repository.RepoCustomer 133 findById - Exit
+22 Mar 2022 10:23:51,107 TRACE repository.RepoScene 121 findById - Enter Parameters: 2
+22 Mar 2022 10:23:51,107 INFO  repository.JdbcUtils 32 getConnection - trying to connect to database ... jdbc:postgresql://localhost:5432/postgres
+22 Mar 2022 10:23:51,107 INFO  repository.JdbcUtils 33 getConnection - user: postgres
+22 Mar 2022 10:23:51,108 INFO  repository.JdbcUtils 34 getConnection - pass: Catinei18
+22 Mar 2022 10:23:51,179 TRACE repository.JdbcUtils 41 getConnection - Exit
+22 Mar 2022 10:23:51,183 TRACE repository.RepoScene 134 findById - Exit
